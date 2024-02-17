@@ -1,0 +1,59 @@
+/* Responsividad para tabletas */
+@media (max-width: 768px) {
+    body {
+        padding: 20px; /* Añade padding al cuerpo para evitar que los elementos toquen los bordes */
+    }
+    #Menu, #Eliminar, #Usuario, select, input[type="text"], input[type="checkbox"], #Dibujo, div {
+        width: 100%; /* Ajusta elementos para usar toda la anchura disponible */
+        margin-bottom: 10px; /* Añade espacio entre elementos */
+    }
+    #Dibujo {
+        height: auto; /* Asegura que la imagen se escale correctamente */
+    }
+}
+
+/* Responsividad para móviles */
+@media (max-width: 480px) {
+    #Menu, #Eliminar, #Usuario, select, input[type="text"], input[type="checkbox"], #Dibujo, div {
+        font-size: smaller; /* Reduce el tamaño del texto para mejorar la legibilidad */
+    }
+}
+
+body{background-color: rgb(190, 154, 105);}
+
+#Menu{background-color: rgb(255, 167, 66); position: absolute; top: 10px;left: 50px}
+#Menu:hover{width:80px; height:35px;}
+#Eliminar{background-color: rgb(231, 43, 43); position: absolute; top: 10px;left: 590px}
+#Eliminar:hover{width:80px; height:35px;}
+#Guardar{background-color: rgb(90, 252, 190); position: absolute; top: 10px;right: 350px}
+#Guardar:hover{width:80px; height:35px;}
+#Usuario{background-color: rgb(207, 195, 154); position: absolute; top: 10px;right: 50px}
+#usuario{background-color: rgb(207, 195, 154); position: absolute; top: 26px;right: 50px; width:20px; height:10px;}
+#usuario:hover{height:20px;}
+
+#Nombre{position: absolute; top: 95px;left:540px}
+
+#Raza{position: absolute; top:150px;left:30px}
+#Genero{position: absolute; top:200px;left:30px}
+#Clase{position: absolute; top:250px;left:30px}
+
+#Dibujo{position:absolute; top: 120px;left:420px; width:500px}
+
+#ColorPelo{position: absolute; top:150px;right:183px}
+#ColorRopa{position: absolute; top:200px;right:175px}
+#Habilidades{position: absolute; top:250px;right:245px}
+    #h1{position: absolute; top:280px;left:1020px}
+    #h2{position: absolute; top:310px;left:1020px}
+    #h3{position: absolute; top:340px;left:1020px}
+    #h4{position: absolute; top:370px;left:1020px}
+    #h5{position: absolute; top:400px;left:1020px}
+
+#Fuerza{position: absolute; top:350px;left:30px}
+#Destreza{position: absolute; top:400px;left:30px}
+#Constitucion{position: absolute; top:450px;left:30px}
+
+#Inteligencia{position: absolute; top:350px;left:210px}
+#Sabiduria{position: absolute; top:400px;left:210px}
+#Carisma{position: absolute; top:450px;left:210px}
+
+#Historia{position:absolute; top:800px;left:30px; width: 1250px; height: 100px;}

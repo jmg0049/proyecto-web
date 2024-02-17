@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personaje</title>
+    <link rel="stylesheet" href="VerPersonaje.css">
+</head>
+<body>
+    <input type="button" id="Menu" value="Menú" onclick="window.location.href='PáginaInicial.html'">  
+    <input type="button" id="Eliminar" value="Eliminar">   
+    <input type="button" id="Usuario" value="Usuario">
+    <select id="usuario" value="usuario" onchange="opcinonesusuario()">
+        <option>~~~~~~~~~~~~</option>
+        <option value="cambio">Cambiar usuario</option>
+        <option value="cerrar">Cerrar sesión</option>
+    </select>
+
+    <div id="Nombre"><label><b>Nombre: </b></label><label>Nombre</label></div>
+  
+    <div id="Raza"><label><b>Raza:</b></label>
+        <label id="raza">Humano</label>
+    </div>
+
+    <div id="Genero"><label><b>Género:</b></label>
+        <label id="genero">Hombre</label>
+    </div>
+
+    <div id="Clase"><label><b>Clase:</b></label>
+        <label id="clase">Guerrero</label>
+    </div>
+    
+    <div id="ColorPelo"><label><b>Color Pelo:</b></label>
+        <label id="colorpelo">Negro</label>
+    </div>
+
+    <div id="ColorRopa"><label><b>Color Ropa:</b></label>
+        <label  id="colorropa">Rojo</label>
+    </div> 
+
+    <div id="Habilidades"><label><b>Habilidades:</b></label></div>
+        <div id="h1"><input id="habilidad1" type="checkbox">Furia</div>
+        <div id="h2"><input id="habilidad2" type="checkbox">Ataque Circular</div>
+        <div id="h3"><input id="habilidad3" type="checkbox">Resistencia</div>
+  
+    <img id="Dibujo" src="./../imagenes/Humano Guerrero 1A.png">
+ 
+    <div id="Fuerza"><label title="La fuerza es la estadística que determina la ejecución de acciones como levantar peso, lanzar cosas pesadas, romper elementos, el daño de un ataque simple, etc."><b>Fuerza</b></label><input type="text" style="width: 15px" id="fuerza" value="8"></input></div>
+    <div id="Destreza"><label title="La destreza es la estadística que determina la habilidad física, afectando a acciones como saltar, esquivar, acrobacias, realizar ataques físicos complejos, etc."><b>Destreza</b></label><input type="text" style="width: 15px" id="destreza" value="8"></input></div>
+    <div id="Constitucion"><label title="La constitución es la estadística que determina lo resistente que eres, la carga que puedes llevar, la cantidad de resistencia, cantidad de vida y defensa, etc."><b>Constitución</b></label><input type="text" style="width: 15px" id="constitución" value="8"></input></div>
+
+    <div id="Inteligencia"><label title="La inteligencia es la estadística que determina tu capacidad de comprender cosas complejas, habilidades mágicas, activar mecanismos, aprender, etc."><b>Inteligencia</b></label><input type="text" style="width: 15px" id="inteligencia" value="8"></input></div>
+    <div id="Sabiduria"><label title="La sabiduría es la estadística que determina tu intuición, conocimientos adquiridos, cultura, etc."><b>Sabiduría</b></label><input type="text" style="width: 15px" id="sabiduría" value="8"></input></div>
+    <div id="Carisma"><label title="El carisma es la estadística que determina tu persuación, intimidación, capacidad de engaño, etc."><b>Carisma</b></label><input type="text" style="width: 15px" id="carisma" value="8"></input></div>
+
+    <div id="Historia">
+    <label><b>Historia:</b></label>
+    <br>
+    <label style="width: 1250px; height: 100px;"></label>
+    </div>
+</body>
+<script src="./../js/VerPersonaje.js"></script>
+</html>

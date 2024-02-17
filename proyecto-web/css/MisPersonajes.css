@@ -1,0 +1,80 @@
+body{background-color: rgb(194, 126, 87);}
+.Filtro{
+    position:fixed;top: 0;
+}
+
+#Menu{background-color: rgb(255, 167, 66); position: absolute; top: 10px;left: 50px}
+#Menu:hover{width:80px; height:35px;}
+#Usuario{background-color: rgb(207, 195, 154); position: absolute; top: 10px;left: 1198px}
+#usuario{background-color: rgb(207, 195, 154); position: absolute; top: 26px;left: 1240px; width:20px; height:10px;}
+#usuario:hover{height:20px;}
+
+#humano{position: absolute; top: 20px;left: 300px}
+#elfo{position: absolute; top: 20px;left: 500px}
+#enano{position: absolute; top: 20px;left: 700px}
+#hombre{position: absolute; top: 20px;left: 900px}
+
+#guerrero{position: absolute; top: 70px;left: 300px}
+#mago{position: absolute; top: 70px;left: 500px}
+#picaro{position: absolute; top: 70px;left: 700px}
+#mujer{position: absolute; top: 70px;left: 900px}
+
+#nombre1{position: absolute; top: 180px;left: 240px;}
+#Dibujo1{position: absolute; top: 200px;left: 120px; width:300px}
+#ver1{position: absolute; top: 570px;left: 125px;}
+#editar1{position: absolute; top: 570px;left: 365px;}
+
+#nombre2{position: absolute; top: 180px;left: 640px;}
+#Dibujo2{position: absolute; top: 200px;left: 520px; width:300px}
+#ver2{position: absolute; top: 570px;left: 525px;}
+#editar2{position: absolute; top: 570px;left: 765px;}
+
+#nombre3{position: absolute; top: 180px;left: 1040px;}
+#Dibujo3{position: absolute; top: 200px;left: 920px; width:300px}
+#ver3{position: absolute; top: 570px;left: 925px;}
+#editar3{position: absolute; top: 570px;left: 1165px;}
+
+#nombre4{position: absolute; top: 680px;left: 240px;}
+#Dibujo4{position: absolute; top: 700px;left: 120px; width:300px}
+#ver4{position: absolute; top: 1070px;left: 125px;}
+#editar4{position: absolute; top: 1070px;left: 365px;}
+
+#nombre5{position: absolute; top: 680px;left: 640px;}
+#Dibujo5{position: absolute; top: 700px;left: 520px; width:300px}
+#ver5{position: absolute; top: 1070px;left: 525px;}
+#editar5{position: absolute; top: 1070px;left: 765px;}
+
+#nombre6{position: absolute; top: 680px;left: 1040px;}
+#Dibujo6{position: absolute; top: 700px;left: 920px; width:300px}
+#ver6{position: absolute; top: 1070px;left: 925px;}
+#editar6{position: absolute; top: 1070px;left: 1165px;}
+
+#nombre7{position: absolute; top: 1180px;left: 240px;}
+#Dibujo7{position: absolute; top: 1200px;left: 120px; width:300px}
+#ver7{position: absolute; top: 1570px;left: 125px;}
+#editar7{position: absolute; top: 1570px;left: 365px;}
+
+#nombre8{position: absolute; top: 1180px;left: 640px;}
+#Dibujo8{position: absolute; top: 1200px;left: 520px; width:300px}
+#ver8{position: absolute; top: 1570px;left: 525px;}
+#editar8{position: absolute; top: 1570px;left: 765px;}
+
+#nombre9{position: absolute; top: 1180px;left: 1040px;}
+#Dibujo9{position: absolute; top: 1200px;left: 920px; width:300px}
+#ver9{position: absolute; top: 1570px;left: 925px;}
+#editar9{position: absolute; top: 1570px;left: 1165px;}
+
+#nombre10{position: absolute; top: 1680px;left: 240px;}
+#Dibujo10{position: absolute; top: 1700px;left: 120px; width:300px}
+#ver10{position: absolute; top: 2070px;left: 125px;}
+#editar10{position: absolute; top: 2070px;left: 365px;}
+
+#nombre11{position: absolute; top: 1680px;left: 640px;}
+#Dibujo11{position: absolute; top: 1700px;left: 520px; width:300px}
+#ver11{position: absolute; top: 2070px;left: 525px;}
+#editar11{position: absolute; top: 2070px;left: 765px;}
+
+#nombre12{position: absolute; top: 1680px;left: 1040px;}
+#Dibujo12{position: absolute; top: 1700px;left: 920px; width:300px}
+#ver12{position: absolute; top: 2070px;left: 925px;}
+#editar12{position: absolute; top: 2070px;left: 1165px;}
