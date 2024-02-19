@@ -47,6 +47,22 @@ body{background-color: rgb(190, 154, 105);}
 #Sabiduria{position: absolute; top:400px;left:210px}
 #Carisma{position: absolute; top:450px;left:210px}
 
+#imagenPersonaje{position: absolute; top:950px;left:30px} /* Estilos para la etiqueta de URL de imagen */
+#imagenPersonaje label { /* Estilos para la etiqueta */
+    display: block; /* Asegura que ocupe una línea completa */
+    margin-bottom: 5px; /* Espacio entre la etiqueta y el texto */
+}
+#imagenPersonaje input[type="text"] { /* Estilos para el campo de entrada */
+    width: 200px; /* Ancho del campo de entrada */
+    /* Otros estilos según sea necesario */
+}
+#imagenPersonaje span { /* Estilos para el mensaje de error */
+    color: red;
+    display: none;
+}
+
+
 #Historia{position:absolute; top:800px;left:30px}
 
 #piechart{position: absolute; top: 1000px; left:50px; background-color: rgb(190, 154, 105);}
+

@@ -112,7 +112,8 @@ if (!isset($_SESSION['usuario_id'])) {
         <input type="text" id="nombre" name="nombre">
         <span id="errorNombre" style="color: red; display: none;">Por favor, ingrese un nombre.</span>
     </div>
-  
+
+    
     <div id="Raza" ><label><b>Raza:</b></label>
         <select id="raza" name="raza" onchange="cambiodibujo()">
             <option value="Humano">Humano</option>
@@ -135,7 +136,13 @@ if (!isset($_SESSION['usuario_id'])) {
             <option value="Picaro" title="Un pícaro se dedica a atacar con armas ligeras, llevar armadura mediana o ligera, y atacar a distancia o por la espalda. Se beneficia de atributos como destreza y carisma.">Pícaro</option>
         </select>
     </div>
-    
+
+    <div id="imagenPersonaje">
+    <label><b>URL de la imagen:</b></label><input type="text" id="urlImagenPersonaje" name="imagenPersonaje"> 
+    <span id="errorimagenPersonaje" style="color: red; display: none;">Por favor, ingrese la URL de la imagen.</span>
+</div>
+
+
     <div id="ColorPelo"><label><b>Color Pelo:</b></label>
         <select id="colorpelo" name="colorpelo" onchange="cambiodibujo()">
             <option value="Negro">Negro</option>
@@ -187,7 +194,6 @@ if (!isset($_SESSION['usuario_id'])) {
     <br>
     <textarea style="width: 1250px; height: 100px;" name="historia"></textarea>
     </div>
-    
     </form>
     
     

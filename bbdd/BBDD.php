@@ -69,7 +69,19 @@ $sql_create_table_personajes = "CREATE TABLE IF NOT EXISTS personajes (
     Sombra BOOLEAN DEFAULT FALSE,
     Puñalada BOOLEAN DEFAULT FALSE,
     Robo BOOLEAN DEFAULT FALSE,
-    Agilidad BOOLEAN DEFAULT FALSE
+    Agilidad BOOLEAN DEFAULT FALSE,
+    imagenPersonaje varchar(225) NOT NULL
+)";
+
+$sql_create_table_campañas = "CREATE TABLE IF NOT EXISTS campañas (
+    id_campaña INT AUTO_INCREMENT PRIMARY KEY,
+    campaña1 VARCHAR(250) NOT NULL,
+    campaña2 VARCHAR(250) NOT NULL,
+    campaña3 VARCHAR(250) NOT NULL,
+    campaña4 VARCHAR(250) NOT NULL,
+    id_usuario INT NOT NULL,
+    FOREIGN KEY (id_usuario) REFERENCES usuarios(id)
+  
 )";
 
 if ($conn->query($sql_create_table_personajes) === TRUE) {
@@ -77,6 +89,10 @@ if ($conn->query($sql_create_table_personajes) === TRUE) {
 } else {
     echo "Error al crear la tabla de personajes: " . $conn->error . "<br>";
 }
-
+if ($conn->query($sql_create_table_campañas) === TRUE) {
+    echo "Tabla de campaña creada con éxito.<br>";
+} else {
+    echo "Error al crear la tabla de campaña: " . $conn->error . "<br>";
+}
 $conn->close();
 ?>

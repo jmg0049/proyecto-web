@@ -26,16 +26,16 @@ if (!isset($_SESSION['usuario_id'])) {
         <option value="cerrar">Cerrar sesión</option>
     </select>
     <h3 id="texto">Escribe anotaciones para tus propias campañas.</h3>
-
+    <form id="formulario_campaña" action="guardar_campaña.php" method="post">
     <input type="button" id="guardar1" value="Guardar"><input onclick="mensaje1()" type="button" id="borrar1" value="Borrar">
-    <textarea id="Campaña1"></textarea>
+    <textarea id="Campaña1" name="campaña1"></textarea>
     <input type="button" id="guardar2" value="Guardar"><input onclick="mensaje2()" type="button" id="borrar2" value="Borrar">
-    <textarea id="Campaña2"></textarea>
+    <textarea id="Campaña2" name="campaña2"></textarea>
     <input type="button" id="guardar3" value="Guardar"><input onclick="mensaje3()" type="button" id="borrar3" value="Borrar">
-    <textarea id="Campaña3"></textarea>
+    <textarea id="Campaña3" name="campaña3"></textarea>
     <input type="button" id="guardar4" value="Guardar"><input onclick="mensaje4()" type="button" id="borrar4" value="Borrar">
-    <textarea id="Campaña4"></textarea>
-
-    <script src="./../js/Campañas.js" defer></script>
+    <textarea id="Campaña4" name="campaña4"></textarea>
+    </form>
+    <script src="./../js/Campañas.js"></script>
 </body>
 </html>

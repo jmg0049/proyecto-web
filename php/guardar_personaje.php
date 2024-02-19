@@ -45,6 +45,9 @@ $habilidad13 = isset($_POST['habilidad13']) ? 1 : 0;
 $habilidad14 = isset($_POST['habilidad14']) ? 1 : 0;
 $habilidad15 = isset($_POST['habilidad15']) ? 1 : 0;
 
+//Recoge url de la imagen
+$imagenPersonaje=  isset($_POST['imagenPersonaje']) ? $_POST['imagenPersonaje'] : '';
+
 if (isset($_SESSION['usuario_id']) && !empty($_SESSION['usuario_id'])) {
     $idUsuario = $_SESSION['usuario_id'];   
     print_r($_SESSION);
@@ -54,10 +57,10 @@ if (isset($_SESSION['usuario_id']) && !empty($_SESSION['usuario_id'])) {
     echo "Error: La sesión del usuario no está configurada correctamente.";
 }
 
-$sql = "INSERT INTO personajes (nombre, raza, genero, clase, color_pelo, color_ropa, fuerza, destreza, constitucion, inteligencia, sabiduria, carisma, historia, id_usuario, Furia, Ataque_circular, Resistencia, Golpe_Maestro, Meditacion, Bola_fuego, Disparo_escarcha, Relampago, Telequinesis, Sanacion, Disparo_centrado, Sombra, Puñalada, Robo, Agilidad ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+$sql = "INSERT INTO personajes (nombre, raza, genero, clase, color_pelo, color_ropa, fuerza, destreza, constitucion, inteligencia, sabiduria, carisma, historia, id_usuario, Furia, Ataque_circular, Resistencia, Golpe_Maestro, Meditacion, Bola_fuego, Disparo_escarcha, Relampago, Telequinesis, Sanacion, Disparo_centrado, Sombra, Puñalada, Robo, Agilidad, imagenPersonaje) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
 
 $stmt = $conn->prepare($sql);
-$stmt->bind_param("ssssssiiiiiisiiiiiiiiiiiiiiii", $nombre, $raza, $genero, $clase, $color_pelo, $color_ropa, $fuerza, $destreza, $constitucion, $inteligencia, $sabiduria, $carisma, $historia, $idUsuario, $habilidad1, $habilidad2, $habilidad3, $habilidad4, $habilidad5, $habilidad6, $habilidad7, $habilidad8, $habilidad9, $habilidad10, $habilidad11, $habilidad12, $habilidad13, $habilidad14, $habilidad15);
+$stmt->bind_param("ssssssiiiiiisiiiiiiiiiiiiiiiis", $nombre, $raza, $genero, $clase, $color_pelo, $color_ropa, $fuerza, $destreza, $constitucion, $inteligencia, $sabiduria, $carisma, $historia, $idUsuario, $habilidad1, $habilidad2, $habilidad3, $habilidad4, $habilidad5, $habilidad6, $habilidad7, $habilidad8, $habilidad9, $habilidad10, $habilidad11, $habilidad12, $habilidad13, $habilidad14, $habilidad15, $imagenPersonaje);
 
 
 if ($stmt->execute()) {

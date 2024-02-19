@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Ejecutar
     if ($stmt->execute()) {
         // Redirigir al usuario a 'formulario_inicio.html'
-        header("Location: formulario_inicio.html");
+        header("Location:/proyecto-web/html/formulario_inicio.html");
         exit;
     } else {
         // Si hay un error, se mostrará el mensaje

@@ -586,22 +586,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 1A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 1B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 1C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 1D.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -610,22 +610,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 2A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 2B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 2C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 2D.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -634,22 +634,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 3A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 3B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 3C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Humano Mago 3D.png';
 
                         }
                     }
@@ -662,22 +662,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -686,22 +686,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -710,22 +710,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
@@ -742,22 +742,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -766,22 +766,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -790,22 +790,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }
@@ -818,22 +818,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -842,22 +842,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -866,22 +866,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }
@@ -894,22 +894,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -918,22 +918,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -942,22 +942,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
@@ -978,22 +978,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 1A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 1B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 1C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 1D.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1002,22 +1002,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 2A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 2B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 2C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 2D.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1026,22 +1026,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 3A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 3B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 3C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Elfo Guerrero 3D.png';
 
                         }
                     }
@@ -1054,22 +1054,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1078,22 +1078,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1102,22 +1102,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }
@@ -1130,22 +1130,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1154,22 +1154,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1178,22 +1178,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
@@ -1210,22 +1210,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1234,22 +1234,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1258,22 +1258,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }
@@ -1286,22 +1286,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1310,22 +1310,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1334,22 +1334,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }
@@ -1362,22 +1362,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1386,22 +1386,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1410,22 +1410,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
@@ -1447,22 +1447,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 1A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 1B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 1C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 1D.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1471,22 +1471,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 2A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 2B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 2C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 2D.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1495,22 +1495,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 3A.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 3B.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 3C.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Enano Guerrero 3D.png';
 
                         }
                     }
@@ -1523,22 +1523,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1547,22 +1547,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1571,22 +1571,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }
@@ -1599,22 +1599,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1623,22 +1623,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1647,22 +1647,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
@@ -1679,22 +1679,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1703,22 +1703,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1727,22 +1727,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Guerrero.png';
 
                         }
                     }
@@ -1755,22 +1755,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1779,22 +1779,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1803,22 +1803,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Mago.png';
 
                         }
                     }
@@ -1831,22 +1831,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
                         }
 
                     }else if(colorpelo=='Amarillo'){
@@ -1855,22 +1855,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = 'Humano Guerrero 2A.png';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }else if(colorpelo=='Rojo'){
@@ -1879,22 +1879,22 @@ var colorropa = cr.options[cr.selectedIndex].value;
                         if(colorropa=='Rojo'){
                             console.log("Ropa Roja");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Azul'){
                             console.log("Ropa Azul");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Verde'){
                             console.log("Ropa Verde");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }else if(colorropa=='Amarillo'){
                             console.log("Ropa Amarilla");
                             var image = document.getElementById("Dibujo");
-                            image.src = '';
+                            image.src = './../imagenes/Marco Pícaro.png';
 
                         }
                     }
